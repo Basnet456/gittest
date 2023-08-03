@@ -24,7 +24,7 @@ for key, value in dict.items():
 
 days = {
     'today': '2023/08/02',
-    'tommorow': '2023/08/03',
+    'tomorrow': '2023/08/03',
     'yesterday': '2023/08/01',
 }
 
